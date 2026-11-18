@@ -1,7 +1,6 @@
 # Refontiq — Site vitrine
 
 
-🌐 **Portfolio professionnel : [https://portfolio.refontiq.com](https://portfolio.refontiq.com)**
 Site vitrine de **Refontiq**, entreprise qui conçoit des logiciels en ligne (SaaS) et des services sur mesure pour les entreprises d'Afrique de l'Ouest : gestion de résidences, cliniques, écoles, création de sites et de SaaS sur mesure, intégration de paiement Mobile Money / PI-SPI.
 
 ## Pages
